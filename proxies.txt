@@ -1,0 +1,11 @@
+# Add your proxies here, one per line
+# Supported formats:
+# 1. host:port (basic proxy)
+# 2. host:port:username:password
+# 3. username:password@host:port
+# 
+# Examples (replace with your actual proxies):
+# 127.0.0.1:8080
+# 192.168.1.100:3128
+# proxy.example.com:8080:myuser:mypass
+# myuser:mypass@proxy.example.com:8080

@@ -1,0 +1,7 @@
+# Add your TikTok session IDs here, one per line
+# Example format (replace with your actual session IDs):
+# 33b0ccd42ce0abbe487a58503e70ccf4
+# a1b2c3d4e5f6789012345678901234567
+# your_session_id_1
+# your_session_id_2
+# your_session_id_3
