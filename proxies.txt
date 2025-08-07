@@ -1,0 +1,16 @@
+# Properly formatted proxies (host:port:username:password)
+proxy1.example.com:8080:user1:pass1
+proxy2.example.com:3128:user2:pass2
+proxy3.example.com:1080:user3:pass3
+
+# Standard HTTP format also supported
+http://user4:pass4@proxy4.example.com:8080
+http://user5:pass5@proxy5.example.com:3128
+
+# Simple proxies without authentication
+proxy6.example.com:8080
+proxy7.example.com:3128
+
+# The script will now correctly parse problematic formats like:
+# http://proxy.ufpr.br:3128@ufpr.br:PvtdAf56 (will be auto-fixed)
+proxy.ufpr.br:3128:ufpr.br:PvtdAf56
