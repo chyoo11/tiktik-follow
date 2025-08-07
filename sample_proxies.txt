@@ -1,0 +1,5 @@
+proxy1.example.com:8080:username1:password1
+proxy2.example.com:3128:user@domain.com:Pass@word123
+proxy3.example.com:8080:testuser:complex:password:with:colons
+proxy4.example.com:3128:email@test.com:P@ssw0rd!#$
+proxy5.example.com:8080:specialuser:password@with@symbols
